@@ -1,0 +1,24 @@
+div{
+    border: 1px solid black;
+    margin: 200px 450px;
+    width: 500px;
+    padding: 30px;
+}
+h1{
+    display: inline-block;
+
+}
+ button{
+     margin-right: 30px;
+ }
+
+ .winner{
+     color:lightgreen;
+ }
+
+ .loser{
+     color:red ;
+ }
+ input{
+     width:50px;
+ }
